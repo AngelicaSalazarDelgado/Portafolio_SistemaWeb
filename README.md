@@ -4,17 +4,7 @@
 > **Curso:** EIF209 Programación IV — Universidad Nacional, Sede Regional Brunca  
 > **Profesores:** Daniel Granados · Ruben Mora · Juan Gamboa
 
----
 
-## 🔗 Enlaces Importantes
-
-| Recurso | URL |
-|---|---|
-| 🌐 Sitio publicado (GitHub Pages) | [Ver sitio](#) |
-| 🎨 Prototipo en Figma | [Ver diseño](#) |
-
-
----
 
 ##  Parte 1: Investigación del Trabajo Soñado
 
@@ -181,4 +171,4 @@ El sitio web está diseñado como una **postulación a un puesto ficticio de Cyb
 
 ---
 
-*Asignación 1 — EIF209 Programación IV · 2026*
+
