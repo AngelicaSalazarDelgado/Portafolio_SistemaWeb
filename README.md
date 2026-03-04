@@ -167,10 +167,10 @@ HTML5 — Estructura semántica con etiquetas <nav>, <section>, <footer>, <heade
 CSS3 — Variables CSS, Flexbox, CSS Grid, Media Queries, animaciones con @keyframes, transiciones y efectos de hover
 JavaScript — Uso limitado y justificado: menú hamburger responsive para dispositivos móviles (toggle del menú de navegación)
 
+Estructura del proyecto
 📁 Portafolio_SistemaWeb/
 ├── 📄 index.html       ← sitio completo (HTML + CSS + JS en un solo archivo)
 └── 📝 README.md        ← documentación del proyecto
-Características implementadas
 
 Diseño responsive (mobile y desktop) con media queries
 Estructura semántica HTML5
