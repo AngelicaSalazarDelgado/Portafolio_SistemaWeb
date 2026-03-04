@@ -4,6 +4,9 @@
 > **Curso:** EIF209 Programación IV — Universidad Nacional, Sede Regional Brunca  
 > **Profesores:** Daniel Granados · Ruben Mora · Juan Gamboa
 
+Enlaces:
+FIGMA
+https://trade-niche-36963733.figma.site/
 
 
 ##  Parte 1: Investigación del Trabajo Soñado
