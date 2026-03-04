@@ -160,31 +160,36 @@ Tipografía: Cormorant Garamond (display) para títulos elegantes y DM Sans para
 Secciones incluidas: Hero, Sobre mí, Habilidades, Certificaciones, Proyectos, Servicios y Contacto — cubriendo todos los requisitos de la asignación más las secciones opcionales solicitadas.
 Diseño responsive: El prototipo fue diseñado considerando tanto la vista desktop (1440px) como mobile (390px), con layouts que se adaptan mediante Flexbox y Grid.
 
-Parte 3: Desarrollo Web
-Tecnologías utilizadas
+## 🛠️ Parte 3: Desarrollo Web
 
-HTML5 — Estructura semántica con etiquetas <nav>, <section>, <footer>, <header> y atributos de accesibilidad
-CSS3 — Variables CSS, Flexbox, CSS Grid, Media Queries, animaciones con @keyframes, transiciones y efectos de hover
-JavaScript — Uso limitado y justificado: menú hamburger responsive para dispositivos móviles (toggle del menú de navegación)
+### Tecnologías utilizadas
 
-Estructura del proyecto
+- **HTML5** — Estructura semántica con etiquetas `<nav>`, `<section>`, `<footer>`, `<header>` y atributos de accesibilidad
+- **CSS3** — Variables CSS, Flexbox, CSS Grid, Media Queries, animaciones con `@keyframes`, transiciones y efectos de hover
+- **JavaScript** — Uso limitado y justificado: menú hamburger responsive para dispositivos móviles
+
+### Estructura del proyecto
+```
 📁 Portafolio_SistemaWeb/
 ├── 📄 index.html       ← sitio completo (HTML + CSS + JS en un solo archivo)
 └── 📝 README.md        ← documentación del proyecto
+```
 
-Diseño responsive (mobile y desktop) con media queries
-Estructura semántica HTML5
-Animaciones y transiciones CSS (@keyframes, hover effects)
-Navegación fija con efecto blur
-Sección Hero con landing page
-Sección Sobre mí con información personal
-Sección Habilidades con tarjetas por categoría
-Sección Certificaciones
-Sección Proyectos destacados
-Sección Servicios
-Sección Contacto con formulario
-Footer con créditos
-Menú hamburger para mobile (JavaScript)
+### Características implementadas
+
+- [x] Diseño responsive (mobile y desktop) con media queries
+- [x] Estructura semántica HTML5
+- [x] Animaciones y transiciones CSS
+- [x] Navegación fija con efecto blur
+- [x] Sección Hero con landing page
+- [x] Sección Sobre mí
+- [x] Sección Habilidades
+- [x] Sección Certificaciones
+- [x] Sección Proyectos
+- [x] Sección Servicios
+- [x] Sección Contacto con formulario
+- [x] Footer
+- [x] Menú hamburger para mobile (JavaScript)
 
 Cómo correr el proyecto localmente
 
