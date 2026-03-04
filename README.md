@@ -12,7 +12,7 @@
 |---|---|
 | 🌐 Sitio publicado (GitHub Pages) | [Ver sitio](#) |
 | 🎨 Prototipo en Figma | [Ver diseño](#) |
-| 📁 Repositorio GitHub | [Ver repositorio](#) |
+
 
 ---
 
@@ -27,9 +27,9 @@
 ### Análisis de Ofertas Laborales
 
 #### Oferta 1 — Oficial de Ciberseguridad
-- **Empresa:** [Nombre de la empresa]
-- **Fuente:** [LinkedIn / Indeed / Glassdoor / etc.]
-- **Enlace:** [URL de la oferta]
+- **Empresa:** COFASA
+- **Fuente:**  Indeed
+
 
 | Categoría | Detalle |
 |---|---|
@@ -43,9 +43,9 @@
 ---
 
 #### Oferta 2 — Cybersecurity Specialist
-- **Empresa:** [Nombre de la empresa]
-- **Fuente:** [LinkedIn / Indeed / Glassdoor / etc.]
-- **Enlace:** [URL de la oferta]
+- **Empresa:** GBM
+- **Fuente:** Indeed
+
 
 | Categoría | Detalle |
 |---|---|
@@ -59,9 +59,9 @@
 ---
 
 #### Oferta 3 — Cybersecurity Business Developer
-- **Empresa:** [Nombre de la empresa]
-- **Fuente:** [LinkedIn / Indeed / Glassdoor / etc.]
-- **Enlace:** [URL de la oferta]
+- **Empresa:** GBM
+- **Fuente:** Indeed
+
 
 | Categoría | Detalle |
 |---|---|
@@ -75,9 +75,9 @@
 ---
 
 #### Oferta 4 — Analista de Riesgos de TI y Continuidad de Negocios
-- **Empresa:** [Nombre de la empresa]
-- **Fuente:** [LinkedIn / Indeed / Glassdoor / etc.]
-- **Enlace:** [URL de la oferta]
+- **Empresa:** CoopecajaR.L
+- **Fuente:** Indeed
+
 
 | Categoría | Detalle |
 |---|---|
@@ -91,9 +91,9 @@
 ---
 
 #### Oferta 5 — Senior Cyber Security Engineer (SIEM)
-- **Empresa:** [Nombre de la empresa]
-- **Fuente:** [LinkedIn / Indeed / Glassdoor / etc.]
-- **Enlace:** [URL de la oferta]
+- **Empresa:** HCLTech
+- **Fuente:** LinkedIn
+
 
 | Categoría | Detalle |
 |---|---|
