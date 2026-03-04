@@ -3,6 +3,10 @@
 > **Perfil objetivo:** Cybersecurity Specialist  
 > **Curso:** EIF209 Programación IV — Universidad Nacional, Sede Regional Brunca  
 > **Profesores:** Daniel Granados · Ruben Mora · Juan Gamboa
+>
+> Enlaces:
+> Sitio Web: https://angelicasalazardelgado.github.io/Portafolio_SistemaWeb/
+> Diseño Figma: https://trade-niche-36963733.figma.site/
 
 ## Parte 1: Investigación del Trabajo Soñado
 
@@ -191,12 +195,5 @@ Diseño responsive: El prototipo fue diseñado considerando tanto la vista deskt
 - [x] Footer
 - [x] Menú hamburger para mobile (JavaScript)
 
-Cómo correr el proyecto localmente
-
-Clona el repositorio:
-
-bash git clone https://github.com/AngelicaSalazarDelgado/Portafolio_SistemaWeb.git
-
-Abre index.html en tu navegador, o usa la extensión Live Server de VS Code.
 
 Asignación 1 — EIF209 Programación IV · 2026
